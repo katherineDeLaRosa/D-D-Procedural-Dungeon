@@ -55,7 +55,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Bandits - Pixel Art\Demo\Bandit.cs" />
+     <Compile Include="Assets\Bandits - Pixel Art\Demo\CharacterSelector_Bandit.cs" />
+     <Compile Include="Assets\Bandits - Pixel Art\Demo\Sensor_Bandit.cs" />
      <Compile Include="Assets\Scripts\DungeonGeneration.cs" />
+     <Compile Include="Assets\Scripts\Players.cs" />
+     <Compile Include="Assets\Scripts\encounters.cs" />
      <Compile Include="Assets\Scripts\otherRoom.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/USER/Desktop/GitHub/D-D-Procedural-Dungeon/DnD Dungeon/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
